@@ -1,0 +1,1 @@
+EmptyClassBlock - [WrongClass] at C:\Users\Andrey\AndroidStudioProjects\TestAppForGradle\app\src\main\java\ru\andreyhoco\testappforgradle\WrongClass.kt:3:18 - Signature=WrongClass.kt$WrongClass${ }
