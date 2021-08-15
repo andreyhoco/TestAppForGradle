@@ -1,7 +1,7 @@
 package ru.andreyhoco.testappforgradle
 
 import android.os.Bundle
-import android.util.Log
+import android.util.*
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
