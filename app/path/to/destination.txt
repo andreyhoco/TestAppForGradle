@@ -1,1 +1,1 @@
-EmptyClassBlock - [WrongClass] at C:\Users\Andrey\AndroidStudioProjects\TestAppForGradle\app\src\main\java\ru\andreyhoco\testappforgradle\WrongClass.kt:3:18 - Signature=WrongClass.kt$WrongClass${ }
+WildcardImport - [MainActivity.kt] at C:\Users\Andrey\AndroidStudioProjects\TestAppForGradle\app\src\main\java\ru\andreyhoco\testappforgradle\MainActivity.kt:4:1 - Signature=MainActivity.kt$import android.util.*
