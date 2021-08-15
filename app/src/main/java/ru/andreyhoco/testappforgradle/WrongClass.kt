@@ -1,3 +1,7 @@
 package ru.andreyhoco.testappforgradle
 
-class WrongClass
+class WrongClass {
+    fun message() {
+        println("M.O.O.N.")
+    }
+}
