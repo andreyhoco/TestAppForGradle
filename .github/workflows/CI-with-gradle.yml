@@ -15,6 +15,11 @@ jobs:
         with: {java-version: 11}
       - name: Run detekt
         run: ./gradlew detekt
+      - name: Upload detekt report
+        uses: actions/upload-artifact@v2
+        with: 
+          name: detekt-report
+          path: app/build/reports/detekt/detekt-report.html
 
   ktlint-check:
     name: Run ktlint check
